@@ -1,54 +1,64 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:38bdf8,55:22c55e,100:f8fafc&section=header&text=Miya555orz&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Miya555orz profile banner" />
-
-### Hi, I'm Miya Zheng
-
-I like building small, useful things and learning how software meets the real world.
-
-<a href="https://github.com/Miya555orz">
-  <img src="https://img.shields.io/badge/GitHub-Miya555orz-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub badge" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Robotics%20%7C%20Embedded%20%7C%20Tools-0f766e?style=flat-square" alt="Focus badge" />
-<img src="https://img.shields.io/badge/Learning-C%2B%2B%20%7C%20Python%20%7C%20Git-2563eb?style=flat-square" alt="Learning badge" />
-
+  <img src="./assets/miya-cover.svg" width="100%" alt="Miya555orz profile cover" />
 </div>
 
----
-
-### About
-
-- Working on practical projects, experiments, and notes.
-- Interested in robotics, embedded systems, algorithms, and tools that make daily work smoother.
-- Currently improving my coding habits, project structure, and GitHub workflow.
-
-### Tech
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,git,github,vscode&perline=7" alt="Tech stack icons" />
+<p align="center">
+  <a href="https://www.cnblogs.com/Miya555">Blog</a>
+  &nbsp;/&nbsp;
+  <a href="https://www.luogu.com.cn/user/764982">Luogu</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/Miya555orz">GitHub</a>
 </p>
 
-### GitHub
+## About
 
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Miya555orz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Miya555orz GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miya555orz&layout=compact&theme=transparent&hide_border=true" alt="Miya555orz top languages" />
-</div>
+I am an Artificial Intelligence freshman at Shenzhen University, an RMer working around electrical control and hardware, and an ACMer who enjoys math-heavy problems.
 
-### Now
+I like the kind of engineering where algorithms, circuits, embedded systems, and real machines finally meet.
+
+## Highlights
+
+| Track | Details |
+| --- | --- |
+| University | Shenzhen University, Artificial Intelligence |
+| RoboMaster | Electrical control / hardware |
+| Competitive programming | ACM training, CSP-S provincial second prize, USACO Bronze |
+| Strong algorithm areas | Number theory, combinatorics |
+
+## Workbench
+
+| Area | Tools & Skills | What I Use Them For |
+| --- | --- | --- |
+| Programming | C, C++, Python | algorithms, embedded logic, tooling |
+| Embedded | STM32 | motor/control experiments, board-level development |
+| EDA | Altium Designer, JLC EDA | schematics, PCB design, hardware iteration |
+| Mechanical | SolidWorks | structure understanding, RM-related design collaboration |
+| Workflow | Git, GitHub, VS Code | notes, projects, version control |
+
+## Algorithm Notes
 
 ```text
-Learning    C/C++, Python, Git
-Building    robotics and personal tools
-Style       simple, useful, and a little bit polished
+Competitive Programming  CSP-S II / USACO Bronze / ACM training
+Favorite Topics          Number Theory / Combinatorics
+Main Language            C++
+Mindset                  Prove clearly, implement carefully, debug patiently
 ```
 
----
+## Current Focus
+
+- Building a stronger embedded and hardware foundation for RoboMaster.
+- Keeping ACM training steady, especially mathematical problem solving.
+- Learning AI fundamentals while connecting them with robotics and control.
+- Writing notes and small tools that make future work easier to reuse.
+
+## Links
+
+| Platform | Link |
+| --- | --- |
+| Blog | <https://www.cnblogs.com/Miya555> |
+| Luogu | <https://www.luogu.com.cn/user/764982> |
+| GitHub | <https://github.com/Miya555orz> |
 
 <div align="center">
-
-Thanks for visiting.
-
-<sub>Keep building, keep shipping, keep learning.</sub>
-
+  <sub>Keep building. Keep solving. Keep learning.</sub>
 </div>
