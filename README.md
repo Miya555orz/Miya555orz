@@ -46,7 +46,7 @@ Working style       build small, test early, debug from real signals
 | MiyaFOC | STM32F103 based hub motor FOC driver | UART/CAN control testing |
 | CAN test boards | Minimal STM32 CAN experiments for debugging transceivers and timing | working notes |
 | Hardware practice | PCB design, power tree, connectors, signal integrity checks | ongoing |
-
+<https://ghfind.com/api/card/mini/miya555orz?lang=zh>
 ## Toolbox
 
 | Area | Tools |
