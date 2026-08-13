@@ -2,56 +2,79 @@
   <img src="./assets/miya-cover.svg" width="100%" alt="Miya555orz profile cover" />
 </div>
 
+<h1 align="center">Hi, I'm Miya Zheng</h1>
+
+<p align="center">
+  AI student at Shenzhen University · RoboMaster hardware/control · embedded robotics learner
+</p>
+
 <p align="center">
   <a href="https://www.cnblogs.com/Miya555">Blog</a>
-  &nbsp;/&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://www.luogu.com.cn/user/764982">Luogu</a>
-  &nbsp;/&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://github.com/Miya555orz">GitHub</a>
 </p>
 
-## About
+<p align="center">
+  <img alt="STM32" src="https://img.shields.io/badge/STM32-embedded-2f80ed?style=flat-square" />
+  <img alt="RoboMaster" src="https://img.shields.io/badge/RoboMaster-hardware%20%26%20control-e85d75?style=flat-square" />
+  <img alt="PCB" src="https://img.shields.io/badge/PCB-JLCEDA%20%2F%20AD-2d9d78?style=flat-square" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-algorithms-6f42c1?style=flat-square" />
+</p>
 
-I am an Artificial Intelligence freshman at Shenzhen University, an RMer working around electrical control and hardware, and an ACMer who enjoys math-heavy problems.
+---
 
-I like the kind of engineering where algorithms, circuits, embedded systems, and real machines finally meet.
+## About Me
 
-## Highlights
+I am an Artificial Intelligence student at Shenzhen University, currently learning embedded control through real hardware instead of only simulations.
 
-| Track | Details |
-| --- | --- |
-| University | Shenzhen University, Artificial Intelligence |
-| RoboMaster | Electrical control / hardware |
-| Competitive programming | ACM training, CSP-S provincial second prize, USACO Bronze |
-| Strong algorithm areas | Number theory, combinatorics |
-
-## Workbench
-
-| Area | Tools & Skills | What I Use Them For |
-| --- | --- | --- |
-| Programming | C, C++, Python | algorithms, embedded logic, tooling |
-| Embedded | STM32 | motor/control experiments, board-level development |
-| EDA | Altium Designer, JLC EDA | schematics, PCB design, hardware iteration |
-| Mechanical | SolidWorks | structure understanding, RM-related design collaboration |
-| Workflow | Git, GitHub, VS Code | notes, projects, version control |
-
-## Algorithm Notes
+My favorite kind of engineering is where algorithms, circuits, firmware, and mechanical structure finally meet on a moving robot.
 
 ```text
-Competitive Programming  CSP-S II / USACO Bronze / ACM training
-Favorite Topics          Number Theory / Combinatorics
-Main Language            C++
-Mindset                  Prove clearly, implement carefully, debug patiently
+Current direction   wheel-leg robots / STM32 / FOC / CAN / UART / IMU
+Competition track   RoboMaster electrical control and hardware
+Algorithm side      ACM training, number theory, combinatorics
+Working style       build small, test early, debug from real signals
 ```
+
+## What I Am Building
+
+| Project | What It Is | Status |
+| --- | --- | --- |
+| Mini wheel-leg robot | STM32H723 controller, STS servos, CAN FOC motors, MPU6050 | hardware bring-up |
+| MiyaFOC | STM32F103 based hub motor FOC driver | UART/CAN control testing |
+| CAN test boards | Minimal STM32 CAN experiments for debugging transceivers and timing | working notes |
+| Hardware practice | PCB design, power tree, connectors, signal integrity checks | ongoing |
+
+## Toolbox
+
+| Area | Tools |
+| --- | --- |
+| Embedded | STM32, Keil MDK, CubeMX, UART, CAN, PWM, timers |
+| Hardware | Altium Designer, JLC EDA, soldering, board bring-up |
+| Control | PID, basic LQR, IMU attitude estimation, motor feedback |
+| Programming | C, C++, Python |
+| Mechanical | SolidWorks, robot structure reading and assembly |
+| Workflow | Git, GitHub, VS Code, lab notes |
+
+## Algorithm Background
+
+| Track | Notes |
+| --- | --- |
+| Competitive programming | ACM training |
+| Awards | CSP-S provincial second prize, USACO Bronze |
+| Favorite topics | Number theory, combinatorics |
+| Main language | C++ |
 
 ## Current Focus
 
-- Building a stronger embedded and hardware foundation for RoboMaster.
-- Keeping ACM training steady, especially mathematical problem solving.
-- Learning AI fundamentals while connecting them with robotics and control.
-- Writing notes and small tools that make future work easier to reuse.
+- Write cleaner embedded C by hand and understand every peripheral I use.
+- Finish the mini wheel-leg robot from board bring-up to stable standing.
+- Keep algorithm training as a long-term foundation.
+- Turn debugging notes into reusable project documentation.
 
-## Links
+## Contact
 
 | Platform | Link |
 | --- | --- |
@@ -60,5 +83,5 @@ Mindset                  Prove clearly, implement carefully, debug patiently
 | GitHub | <https://github.com/Miya555orz> |
 
 <div align="center">
-  <sub>Keep building. Keep solving. Keep learning.</sub>
+  <sub>Build honestly. Debug patiently. Learn in public.</sub>
 </div>
