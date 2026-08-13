@@ -37,7 +37,7 @@ Competition track   RoboMaster electrical control and hardware
 Algorithm side      ACM training, number theory, combinatorics
 Working style       build small, test early, debug from real signals
 ```
-<https://ghfind.com/api/card/mini/miya555orz?lang=zh>
+<a href="https://ghfind.com/u/miya555orz?ref=badge"><img src="https://ghfind.com/api/card/miya555orz?theme=dark" alt="GitHub Roast" width="600" /></a>
 ## What I Am Building
 
 | Project | What It Is | Status |
