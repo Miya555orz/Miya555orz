@@ -2,8 +2,8 @@
   <h1>Hi, I'm Miya Zheng.</h1>
   <p>
     <code>AI Undergraduate @ Shenzhen University</code>
-    <code>Competitive Programmer</code>
-    <code>Robotics & Systems Builder</code>
+    <code>ACM / C++</code>
+    <code>Robotics & Systems</code>
   </p>
 </div>
 
@@ -15,37 +15,15 @@
   </samp>
 </p>
 
-I build systems at the boundary of **algorithms, embedded control, and AI infrastructure**.
+Building at the intersection of algorithms, embedded robotics, and future **AI Infrastructure**.
 
-- Currently: ACM/ICPC training, STM32-based robotics, and the foundations of CUDA performance engineering.
-- Building toward: **GPU Systems · AI Infrastructure · Performance Engineering**.
-- I learn by making small experiments reproducible, measuring before optimizing, and documenting what failed as carefully as what worked.
+- now: ACM/ICPC · STM32 robotics · CUDA performance fundamentals
+- toward: GPU Systems · AI Infrastructure · Developer Tools
 
-## Focus
+### Selected work
 
-```text
-Algorithms        C++ · graph theory · data structures · competitive programming
-Robotics          STM32 · FreeRTOS · CAN/FDCAN · motor control · IMU · PID/LQR
-GPU systems       CUDA fundamentals · benchmarking · profiling · CPU/GPU pipelines
-Long-term         AI Infrastructure · Developer Tools · Performance Engineering
-```
-
-## Selected Work
-
-| Project | What I am learning / building | Status |
-| --- | --- | --- |
-| MiyaGPUPerf | Reproducible GPU benchmarks, performance notes, and regression-testing foundations | private pre-release |
-| [my_micro_leg_robot](https://github.com/Miya555orz/my_micro_leg_robot) | Wheel-legged robotics: embedded control, CAN, sensors, safety, and system integration | ongoing |
-| [RTL-Wiki](https://github.com/Miya555orz/RTL-Wiki) | Notes and experiments for hardware-description and digital-design learning | ongoing |
-
-## 2026–2027 Learning Log
-
-- **Now:** turn GPU programming fundamentals into small, measured experiments on RTX 500 Ada.
-- **After ICPC season:** move from PyTorch timing to CUDA C++, Nsight, memory behavior, and asynchronous CPU/GPU pipelines.
-- **Project standard:** every result should state the platform, measurement boundary, repetitions, and limitation.
-
-## Principles
+- **MiyaGPUPerf** — reproducible GPU benchmarks and performance notes *(private pre-release)*
+- [my_micro_leg_robot](https://github.com/Miya555orz/my_micro_leg_robot) — wheel-legged robot control and embedded systems
+- [RTL-Wiki](https://github.com/Miya555orz/RTL-Wiki) — digital-design learning notes
 
 > Build honestly. Measure carefully. Explain the system.
-
-<sub>Open to learning from engineers and students working on GPU systems, performance, robotics, and AI infrastructure.</sub>
