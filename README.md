@@ -34,7 +34,7 @@ Long-term         AI Infrastructure · Developer Tools · Performance Engineerin
 
 | Project | What I am learning / building | Status |
 | --- | --- | --- |
-| [MiyaGPUPerf](https://github.com/Miya555orz/MiyaGPUPerf) | Reproducible GPU benchmarks, performance notes, and regression-testing foundations | active learning |
+| MiyaGPUPerf | Reproducible GPU benchmarks, performance notes, and regression-testing foundations | private pre-release |
 | [my_micro_leg_robot](https://github.com/Miya555orz/my_micro_leg_robot) | Wheel-legged robotics: embedded control, CAN, sensors, safety, and system integration | ongoing |
 | [RTL-Wiki](https://github.com/Miya555orz/RTL-Wiki) | Notes and experiments for hardware-description and digital-design learning | ongoing |
 
