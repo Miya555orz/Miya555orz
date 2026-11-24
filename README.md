@@ -23,4 +23,4 @@
 
 - bridging the gap from physical hardware & embedded systems up to high-performance compute kernels
 
-btw beyond code and benchmarks, don't miss: `#RoboMaster` `#CircuitDesign` `#EDA` `#FPGA` `#ACM` (^. .^)
+btw beyond code and benchmarks, don't miss:`#CircuitDesign` `#EDA` `#FPGA`  (^. .^)
