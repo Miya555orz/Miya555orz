@@ -1,29 +1,26 @@
 <div align="left">
-  <h1>Hi, I'm Miya Zheng.</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=C98A4A&center=false&pause=100000&lines=Hi,+I'm+Miya+Zheng." alt="Hi, I'm Miya Zheng."/>
   <p>
-    <code>AI Undergraduate @ Shenzhen University</code>
-    <code>ACM / C++</code>
-    <code>Robotics & Systems</code>
+    <code>AI Undergrad @ SZU</code>
+    <code>AI Infra & GPU Systems</code>
+    <code>ACM-ICPC / C++ / CUDA</code>
   </p>
 </div>
 
 <p>
   <samp>
     <a href="https://www.cnblogs.com/Miya555">Blog</a> ·
+    <a href="https://codeforces.com/profile/Miya555">Codeforces</a> ·
     <a href="https://www.luogu.com.cn/user/764982">Luogu</a> ·
-    <a href="https://github.com/Miya555orz">GitHub</a>
+    <a href="https://www.xiaohongshu.com/user/profile/5fafadaf000000000101cd4a">Rednote (13K+ ❤️)</a> ·
+    <a href="https://www.zhihu.com/people/fairyer-53/posts">Zhihu</a>
   </samp>
 </p>
 
-Building at the intersection of algorithms, embedded robotics, and future **AI Infrastructure**.
+- building at the intersection of **algorithms**, **embedded robotics**, and **GPU / AI Infrastructure**
 
-- now: ACM/ICPC · STM32 robotics · CUDA performance fundamentals
-- toward: GPU Systems · AI Infrastructure · Developer Tools
+- open-source & systems journey: contributing to [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass/pull/3930) · [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention/pull/3213) · [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp/pull/31638) · [OI-wiki](https://github.com/OI-wiki/OI-wiki/pulls?q=is%3Apr+author%3AMiya555orz)
 
-### Selected work
+- focused on CUDA kernels, LLM inference engines, memory hierarchy benchmarking (`MiyaGPUPerf`) & wheel-legged robotics (`STM32 / FOC / RTL`)
 
-- **MiyaGPUPerf** — reproducible GPU benchmarks and performance notes *(private pre-release)*
-- [my_micro_leg_robot](https://github.com/Miya555orz/my_micro_leg_robot) — wheel-legged robot control and embedded systems
-- [RTL-Wiki](https://github.com/Miya555orz/RTL-Wiki) — digital-design learning notes
-
-> Build honestly. Measure carefully. Explain the system.
+btw beyond `nvcc` and `nsys`, build honestly, measure carefully, and explain the system ฅ^•ﻌ•^ฅ
