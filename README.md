@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=A855F7&center=false&pause=100000&lines=Hi,+I'm+Miya+Zheng." alt="Hi, I'm Miya Zheng."/>
   <p>
     <code>AI Undergrad @ SZU</code>
-    <code>AI Infra & GPU Systems</code>
-    <code>ACM-ICPC / C++ / CUDA</code>
+    <code>ACM-ICPC / C++</code>
+    <code>Edge AI & AI Infra</code>
   </p>
 </div>
 
@@ -17,10 +17,10 @@
   </samp>
 </p>
 
-- exploring **GPU Systems**, **CUDA Kernels**, and **LLM Inference Infrastructure**
+- heading toward **Edge AI Infra** & **AI Infrastructure** — exploring GPU systems, CUDA kernels, and on-device LLM inference
 
-- open-source journey: contributing to [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass/pull/3930) · [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention/pull/3213) · [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp/pull/31638) · [OI-wiki](https://github.com/OI-wiki/OI-wiki/pulls?q=is%3Apr+author%3AMiya555orz)
+- hardware & robotics stack (also my favorite hobby!): **RoboMaster** alumni · **Circuit Design** & **EDA** · **FPGA (Verilog)** · **STM32** · **ROS**
 
-- hobbyist in **circuit design**, **RTL / Verilog**, and **EDA** — building robots from silicon & PCBs up to kernels
+- bridging the gap from physical hardware & embedded systems up to high-performance compute kernels
 
-btw beyond `nvcc` and `nsys`: `#CircuitDesign` `#EDA` `#Robotics` `#ACM` (^. .^)
+btw beyond code and benchmarks, don't miss: `#RoboMaster` `#CircuitDesign` `#EDA` `#FPGA` `#ACM` (^. .^)
